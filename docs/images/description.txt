@@ -1,0 +1,1 @@
+This lab creates a map of Idaho's cities and counties along with a transportation layer. The map focuses on different interface tools.
